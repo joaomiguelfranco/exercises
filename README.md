@@ -41,4 +41,4 @@
   - [ ] [QHeap 1](https://www.hackerrank.com/challenges/qheap1/problem)
   - [ ] [Breath First Search](https://www.hackerrank.com/challenges/bfsshortreach/problem)
   - [ ] [Snakes and Ladders](https://www.hackerrank.com/challenges/the-quickest-way-up/problem)
-  - [ ] [Fibonacci Numbers](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---fibonacci-numbers/problem)
+  - [X] [Fibonacci Numbers](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---fibonacci-numbers/problem)
