@@ -22,6 +22,7 @@
   - [ ] Time complexity
   - [ ] Space complexity
 
+- [Recursion](docs/recursion.md)
 
 - Exercises:
   - [X] Trees average per level
