@@ -1,44 +1,44 @@
 # Study
 
 - Data Structures:
- - [ ] Hash Tables
- - [ ] Linked Lists
- - [ ] Stacks
- - [ ] Queues
- - [ ] Trees
- - [ ] Tries
- - [ ] Graphs
- - [ ] Vectors
- - [ ] Heaps
+  - [ ] Hash Tables
+  - [ ] Linked Lists
+  - [ ] Stacks
+  - [ ] Queues
+  - [ ] Trees
+  - [ ] Tries
+  - [ ] Graphs
+  - [ ] Vectors
+  - [ ] Heaps
 
 - Algorithms:
- - [ ] Breadth-first search
- - [ ] Depth-first search
- - [ ] Merge Sort
- - [ ] Quick Sort
+  - [ ] Breadth-first search
+  - [ ] Depth-first search
+  - [ ] Merge Sort
+  - [ ] Quick Sort
 
 - Big O notation
- - [ ] Do exercises
- - [ ] Time complexity
- - [ ] Space complexity
+  - [ ] Do exercises
+  - [ ] Time complexity
+  - [ ] Space complexity
 
 
-  Exercises:
-    X Trees average per level
-    X A very big sum
-    - Designer PDF view
-    - Left Rotation
-    - Insert a node at a position given in a list
-    - cycle detection
-    - Balanced Brackets
-    - Queue using 2 stacks
-    - Ice Cream Parlor
-    - Colorful Number
-    - Insertion sort part 2
-    - Quicksort
-    - Binary tree insertion 
-    - Height of a Binary Tree
-    - QHeap 1
-    - Breath First Search
-    - Snakes and Ladders
-    - Fibonacci Numbers
+- Exercises:
+  - [X] Trees average per level
+  - [X] A very big sum
+  - [ ] [Designer PDF view](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)
+  - [ ] [Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem)
+  - [ ] [Insert a node at a position given in a list](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem)
+  - [ ] [Cycle detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem%20)
+  - [ ] [Balanced Brackets](http://Balanced%20Brackets)
+  - [ ] [Queue using 2 stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem)
+  - [ ] [Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor/problem)
+  - [ ] [Colorful Number](https://algorithms.tutorialhorizon.com/colorful-numbers/)
+  - [ ] [Insertion sort part 2](https://www.hackerrank.com/challenges/insertionsort2/problem)
+  - [ ] [Quicksort](https://www.hackerrank.com/challenges/quicksort2/problem)
+  - [ ] [Binary tree insertion](https://www.hackerrank.com/challenges/binary-search-tree-insertion/problem) 
+  - [ ] [Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem)
+  - [ ] [QHeap 1](https://www.hackerrank.com/challenges/qheap1/problem)
+  - [ ] [Breath First Search](https://www.hackerrank.com/challenges/bfsshortreach/problem)
+  - [ ] [Snakes and Ladders](https://www.hackerrank.com/challenges/the-quickest-way-up/problem)
+  - [ ] [Fibonacci Numbers](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---fibonacci-numbers/problem)
