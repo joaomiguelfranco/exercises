@@ -1,7 +1,7 @@
 # Study
 
 - Data Structures:
-  - [ ] Hash Tables
+  - [X] [Hash Tables](ransomNote.py)
   - [ ] Linked Lists
   - [ ] Stacks
   - [ ] Queues
@@ -27,8 +27,8 @@
 - Exercises:
   - [X] Trees average per level
   - [X] A very big sum
-  - [ ] [Designer PDF view](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)
-  - [ ] [Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem)
+  - [X] [Designer PDF view](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)
+  - [X] [Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem)
   - [ ] [Insert a node at a position given in a list](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem)
   - [ ] [Cycle detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem%20)
   - [ ] [Balanced Brackets](http://Balanced%20Brackets)
