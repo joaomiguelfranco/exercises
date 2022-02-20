@@ -29,8 +29,8 @@
   - [X] A very big sum
   - [X] [Designer PDF view](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)
   - [X] [Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem)
-  - [ ] [Insert a node at a position given in a list](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem)
-  - [ ] [Cycle detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem%20)
+  - [X] [Insert a node at a position given in a list](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem)
+  - [X] [Cycle detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem%20)
   - [ ] [Balanced Brackets](http://Balanced%20Brackets)
   - [ ] [Queue using 2 stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem)
   - [ ] [Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor/problem)
