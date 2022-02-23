@@ -2,9 +2,9 @@
 
 - Data Structures:
   - [X] [Hash Tables](ransomNote.py)
-  - [ ] Linked Lists
-  - [ ] Stacks
-  - [ ] Queues
+  - [X] Linked Lists
+  - [X] Stacks (FILO pop, push, top)
+  - [X] Queues (FIFO enqueue, dequeue)
   - [ ] Trees
   - [ ] Tries
   - [ ] Graphs
@@ -12,8 +12,8 @@
   - [ ] Heaps
 
 - Algorithms:
-  - [ ] Breadth-first search
-  - [ ] Depth-first search
+  - [X] Breadth-first search (queue for iterative approach)
+  - [X] Depth-first search (stack for iterative approach)
   - [ ] Merge Sort
   - [ ] Quick Sort
 
@@ -33,8 +33,8 @@
   - [X] [Cycle detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem%20)
   - [X] [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem)
   - [X] [Queue using 2 stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem)
-  - [ ] [Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor/problem)
-  - [ ] [Colorful Number](https://algorithms.tutorialhorizon.com/colorful-numbers/)
+  - [X] [Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor/problem)
+  - [X] [Colorful Number](https://algorithms.tutorialhorizon.com/colorful-numbers/)
   - [ ] [Insertion sort part 2](https://www.hackerrank.com/challenges/insertionsort2/problem)
   - [ ] [Quicksort](https://www.hackerrank.com/challenges/quicksort2/problem)
   - [ ] [Binary tree insertion](https://www.hackerrank.com/challenges/binary-search-tree-insertion/problem) 
