@@ -11,6 +11,15 @@ import math
 
 # arr = [1, 3, 3, 3, 5]
 
+def checkForMoreEqualPairs(arr, head, tail):
+    res = 0
+    tail_tmp = tail - 1
+    while head < tail_tmp and arr[tail] == arr[tail_tmp]:
+        res += 1
+        tail_tmp -= 1
+    return res
+
+
 def numberOfWays(arr, k):
     arr.sort()
     res = 0
@@ -21,12 +30,8 @@ def numberOfWays(arr, k):
         tmp = arr[head] + arr[tail]
         if tmp == k:
             res += 1
-            tail_tmp = tail - 1
-            while head < tail_tmp and arr[tail] == arr[tail_tmp]:
-                res += 1
-                tail_tmp -= 1
+            res += checkForMoreEqualPairs(arr, head, tail)
             head += 1
-
         elif tmp < k:
             head += 1
         else:
