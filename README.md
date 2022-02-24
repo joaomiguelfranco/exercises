@@ -48,6 +48,11 @@
   - [X] [Rotation Cypher](https://www.facebookrecruiting.com/portal/coding_practice_question/?problem_id=226517205173943&c=627647744968810&ppid=454615229006519&practice_plan=1)
   - [X] [Pair Sums](https://www.facebookrecruiting.com/portal/coding_practice_question/?problem_id=840934449713537&c=627647744968810&ppid=454615229006519)
   - [X] [Minimum Lenght Strings](https://www.facebookrecruiting.com/portal/coding_practice_question/?problem_id=2237975393164055&c=627647744968810&ppid=454615229006519&practice_plan=)
+  - [X] [Matching Pairs](https://www.facebookrecruiting.com/portal/coding_practice_question/?problem_id=559324704673058&c=627647744968810&ppid=454615229006519&practice_plan=0)
+  - [X] [Largest Triple Product](https://www.facebookrecruiting.com/portal/coding_practice_question/?problem_id=510655302929581&c=627647744968810&ppid=454615229006519&practice_plan=0)
+  - [X] [Contiguous SubArrays](https://www.facebookrecruiting.com/portal/coding_practice_question/?problem_id=226517205173943&c=627647744968810&ppid=454615229006519&practice_plan=1)
+  
+  
   
 - System Design Interviews:
   - [] Costs Of operations:
