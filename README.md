@@ -43,3 +43,30 @@
   - [ ] [Breath First Search](https://www.hackerrank.com/challenges/bfsshortreach/problem)
   - [ ] [Snakes and Ladders](https://www.hackerrank.com/challenges/the-quickest-way-up/problem)
   - [X] [Fibonacci Numbers](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---fibonacci-numbers/problem)
+  - [X] [Number of Visible Nodes](https://www.facebookrecruiting.com/portal/coding_practice_question/?problem_id=495004218121393&c=627647744968810&ppid=454615229006519&practice_plan=0)
+  - [X] [Nodes in a SubTree](https://www.facebookrecruiting.com/portal/coding_practice_question/?problem_id=3068294883205371&c=627647744968810&ppid=454615229006519&practice_plan=0)
+  - [X] [Rotation Cypher](https://www.facebookrecruiting.com/portal/coding_practice_question/?problem_id=226517205173943&c=627647744968810&ppid=454615229006519&practice_plan=1)
+  - [X] [Pair Sums](https://www.facebookrecruiting.com/portal/coding_practice_question/?problem_id=840934449713537&c=627647744968810&ppid=454615229006519)
+  - [X] [Minimum Lenght Strings](https://www.facebookrecruiting.com/portal/coding_practice_question/?problem_id=2237975393164055&c=627647744968810&ppid=454615229006519&practice_plan=)
+  
+- System Design Interviews:
+  - [] Costs Of operations:
+    - Read from disk
+    - Read from memory
+    - Local Area Network (LAN) roundtrip
+    - Cross Continental Network
+  - [] System Properties:
+      - throughput
+      - latency
+      - storage
+  - [] APIs? Which tools?
+  - [] LoadBalancer?
+  - [] Twitter System Design
+  - [] Youtube System Design
+  - [] Netflix System Design
+  - [] Google System Design
+  - [] Facebook System Design
+  
+  
+
+      
