@@ -5,7 +5,7 @@
   - [X] Linked Lists
   - [X] Stacks (FILO pop, push, top)
   - [X] Queues (FIFO enqueue, dequeue)
-  - [ ] Trees
+  - [X] Trees
   - [ ] Tries
   - [ ] Graphs
   - [ ] Vectors
@@ -14,13 +14,13 @@
 - Algorithms:
   - [X] Breadth-first search (queue for iterative approach)
   - [X] Depth-first search (stack for iterative approach)
-  - [ ] Merge Sort
-  - [ ] Quick Sort
+  - [X] Merge Sort
+  - [X] Quick Sort
 
 - Big O notation
   - [ ] Do exercises
-  - [ ] Time complexity
-  - [ ] Space complexity
+  - [X] Time complexity
+  - [X] Space complexity
 
 - [Recursion](docs/recursion.md)
 
@@ -36,7 +36,7 @@
   - [X] [Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor/problem)
   - [X] [Colorful Number](https://algorithms.tutorialhorizon.com/colorful-numbers/)
   - [ ] [Insertion sort part 2](https://www.hackerrank.com/challenges/insertionsort2/problem)
-  - [ ] [Quicksort](https://www.hackerrank.com/challenges/quicksort2/problem)
+  - [X] [Quicksort](https://www.hackerrank.com/challenges/quicksort2/problem)
   - [ ] [Binary tree insertion](https://www.hackerrank.com/challenges/binary-search-tree-insertion/problem) 
   - [X] [Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem)
   - [ ] [QHeap 1](https://www.hackerrank.com/challenges/qheap1/problem)
