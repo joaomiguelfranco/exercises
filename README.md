@@ -37,7 +37,7 @@
   - [X] [Colorful Number](https://algorithms.tutorialhorizon.com/colorful-numbers/)
   - [ ] [Insertion sort part 2](https://www.hackerrank.com/challenges/insertionsort2/problem)
   - [X] [Quicksort](https://www.hackerrank.com/challenges/quicksort2/problem)
-  - [ ] [Binary tree insertion](https://www.hackerrank.com/challenges/binary-search-tree-insertion/problem) 
+  - [X] [Binary tree insertion](https://www.hackerrank.com/challenges/binary-search-tree-insertion/problem) 
   - [X] [Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem)
   - [ ] [QHeap 1](https://www.hackerrank.com/challenges/qheap1/problem)
   - [ ] [Breath First Search](https://www.hackerrank.com/challenges/bfsshortreach/problem)
@@ -51,6 +51,12 @@
   - [X] [Matching Pairs](https://www.facebookrecruiting.com/portal/coding_practice_question/?problem_id=559324704673058&c=627647744968810&ppid=454615229006519&practice_plan=0)
   - [X] [Largest Triple Product](https://www.facebookrecruiting.com/portal/coding_practice_question/?problem_id=510655302929581&c=627647744968810&ppid=454615229006519&practice_plan=0)
   - [X] [Contiguous SubArrays](https://www.facebookrecruiting.com/portal/coding_practice_question/?problem_id=226517205173943&c=627647744968810&ppid=454615229006519&practice_plan=1)
+  - [X] [Balanced Split](https://www.facebookrecruiting.com/portal/coding_practice_question/?problem_id=226994905008716&c=627647744968810&ppid=454615229006519&practice_plan=0)
+  - [X] [Counting Triangles](https://www.facebookrecruiting.com/portal/coding_practice_question/?problem_id=720422605157879&c=627647744968810&ppid=454615229006519&practice_plan=0)
+  - [X] [Reveserse Operations](https://www.facebookrecruiting.com/portal/coding_practice_question/?problem_id=623634548182866&c=627647744968810&ppid=454615229006519&practice_plan=0)
+  - [ ] [Self Balancing Tree](https://www.hackerrank.com/challenges/self-balancing-tree/problem)
+  
+  
   
   
   

@@ -13,26 +13,75 @@ class Node:
 # Add any helper functions you may need here
 
 
-# 1 -> 2 -> 8 -> 9 -> 12 -> 16
-# cur = 2
-# prev = 1
-# 2 and 2->8
-# 1 -> 8
-# 8 -> 2
+# [2, 18, 24, 3, 5, 7, 9, 6, 12]
+# cur = head
+# if cur.data % 2 == 0
+# findNextToSwap(cur)
+#
+#   prev = cur
+#   cur = cur.next
+#
 
-def reverse(head):
-    # Write your code here
-    cur = head.next
-    prev = head
-    while cur and cur.next:
-        if cur.data % 2 == 0 and cur.next.data % 2 == 0:
-            next = cur.next
-            cur.next = next.next
-            prev.next = next
-            next.next = cur
+def findNextToSwap(node):
+    prev = node
+    cur = node.next
+    while cur and cur.data %2 == 0:
         prev = cur
         cur = cur.next
+    return prev
+
+def swap(head, prev, node1, node2):
+    if prev is None:
+        head = node2
+    else :
+        prev.next = node2
+
+    tmp = node1
+    while (tmp.next != node2):
+        tmp = tmp.next
+    tmp.next = node1
+
+    # swap nodes
+    tmp = node2.next
+    node2.next = node1.next
+    node1.next = tmp
+
     return head
+
+
+
+def reverse(head):
+    prev = None
+    cur = head
+    while cur:
+        if cur.data % 2 == 0:
+            lastEvenNode = findNextToSwap(cur)
+            head = swap(head, prev, cur, lastEvenNode)
+        prev = cur
+        cur = cur.next
+
+    return head
+
+
+    # if head.data % 2 == 0 and head.next and head.next.data % 2 == 0:
+    #     tmp = head
+    #     head = head.next
+    #     tmp.next = head.next
+    #     head.next = tmp
+    #
+    #
+    # # Write your code here
+    # cur = head.next
+    # prev = head
+    # while cur and cur.next:
+    #     if cur.data % 2 == 0 and cur.next.data % 2 == 0:
+    #         next = cur.next
+    #         cur.next = next.next
+    #         prev.next = next
+    #         next.next = cur
+    #     prev = cur
+    #     cur = cur.next
+    # return head
 
 # These are the tests we use to determine if the solution is correct.
 # You can add your own at the bottom.
