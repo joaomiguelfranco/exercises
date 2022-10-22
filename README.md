@@ -11,6 +11,12 @@
   - [ ] Vectors
   - [ ] Heaps
 
+Still To check:
+- stack
+- queue
+- BFS
+- DFS
+
 - Algorithms:
   - [X] Breadth-first search (queue for iterative approach)
   - [X] Depth-first search (stack for iterative approach)
